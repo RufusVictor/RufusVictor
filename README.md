@@ -15,7 +15,7 @@
 
  **<h3 align="center">🚀 I specialize in Java, Spring Boot, and modern web technologies. Explore my projects and skills to see how I can help bring your ideas to life 🖥️</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Quick Peek</h3>**
 
 - 💼 I'm currently working on: **Voices will speak, names will fade - only the words will remain 😉**
 - 🌱 I'm currently learning: **Spring Boot ☕**
