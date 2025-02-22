@@ -17,10 +17,10 @@
 
 **<h3 align="left">Quick Peek</h3>**
 
-💼 I'm currently working on: **Voices will speak, names will fade - only the words will remain 😉**
-🌱 I'm currently learning: **Spring Boot ☕**
-💬 Ask me about: **Java, JavaScript, React.js, Python, MySQL, MongoDB, and RESTful APIs 💡**
-⚡ Fun fact: **Built my first auth system, then tried to hack it. Security begins with curiosity 🔐**
+💼 I'm currently working on: **Voices will speak, names will fade - only the words will remain 😉**<br>
+🌱 I'm currently learning: **Spring Boot ☕**<br>
+💬 Ask me about: **Java, JavaScript, React.js, Python, MySQL, MongoDB, and RESTful APIs 💡**<br>
+⚡ Fun fact: **Built my first auth system, then tried to hack it. Security begins with curiosity 🔐**<br>
 📂 Portfolio: **<a href="https://rufusvictor.netlify.app/" target="_blank">https://rufusvictor.netlify.app/</a>**
 
  **<h3 align="left">Skills</h3>**
