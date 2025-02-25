@@ -29,8 +29,8 @@
 
  **<h3 align="left">GitHub Stats</h3>**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RufusVictor&theme=dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&border_radius=30" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=RufusVictor&theme=dark&hide_border=false&border_radius=30&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200&fire=crimson&ring=red&currStreakNum=crimson&currStreakLabel=red" alt="GitHub streak Card" />
+<p align="center">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RufusVictor&theme=dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400&hide_border=false&border_radius=30" alt="Rufus Victor's GitHub Stats" />
+  <img align="center" width="48%" src="https://github-readme-streak-stats-eight.vercel.app/demo/?user=RufusVictor&theme=dark&hide_border=false&border_radius=30&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200&fire=crimson&ring=red&currStreakNum=crimson&currStreakLabel=red" alt="Rufus Victor's GitHub Stats" />
 </p>
 
