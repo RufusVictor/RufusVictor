@@ -1,4 +1,4 @@
-<a align="center" href="https://rufusvictor.netlify.app">![👋 Hi, my name is Rufus Victor Joe A](https://rufusvictor.netlify.app/images/meow_git.gif)</a>
+<div align="center"><a href="https://rufusvictor.netlify.app">![👋 Hi, my name is Rufus Victor Joe A](https://rufusvictor.netlify.app/images/meow_git.gif)</a></div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
