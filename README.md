@@ -17,7 +17,7 @@
 
 **<h3 align="left">Quick Peek</h3>**
 
-💼 I'm currently working on: **Voices will speak, names will fade - only the words will remain 😉**<br>
+💼 I'm currently working on: **In the arena of games, where memory and fate collide, only the worthy shall wear the crown 😉**<br>
 🌱 I'm currently learning: **Spring Boot ☕**<br>
 💬 Ask me about: **Java, JavaScript, React.js, Python, MySQL, MongoDB, and RESTful APIs 💡**<br>
 ⚡ Fun fact: **Built my first auth system, then tried to hack it. Security begins with curiosity 🔐**<br>
