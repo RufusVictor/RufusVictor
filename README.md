@@ -13,7 +13,7 @@
 **<h3 align="center">Connect with me!</h3>** 
 <p align="center"><a href="https://github.com/RufusVictor" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/rufusvictor-webdeveloper" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
- **<h3 align="center">🚀 I specialize in Java, Spring Boot, and modern web technologies. Explore my projects and skills to see how I can help bring your ideas to life 🖥️</h3>**
+ **<h3 align="center">🚀 I specialize in Java and modern web technologies. Explore my projects and skills to see how I can help bring your ideas to life 🖥️</h3>**
 
 **<h3 align="left">Quick Peek</h3>**
 
